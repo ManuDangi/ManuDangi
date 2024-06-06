@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://manudangi.io)
 
 <h1 align="center">Hi 👋, I'm Manu Dangi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.Q5xYqsT6B7667WGE4yCUIAHaE1&pid=Api&P=0&h=180">
 
 
